@@ -29,38 +29,38 @@ The HR Dashboard Project aims to provide an interactive dashboard for HR manager
 
 1. Total Active Employees
 
-What is the total number of active employees?
+   What is the total number of active employees?
 
 2. Total Hired Employees
    
-What is the total number of Hired employees?
-How does the number of Hired employees trend over time?
+   What is the total number of Hired employees?
+   How does the number of Hired employees trend over time?
 
 3. Total Terminated Employees
    
-What is the total number of terminated employees?
-How does the turnover rate compare across different periods?
+   What is the total number of terminated employees?
+   How does the turnover rate compare across different periods?
 
 4. Departmental Distribution
    
-What is the total number of active and terminated employees in each department?
-Are there departments with unusually high termination rates?
+   What is the total number of active and terminated employees in each department?
+   Are there departments with unusually high termination rates?
 
 5. Geographical Distribution
     
-What is the distribution of active and terminated employees across different cities and states?
-What percentage of total hires are located at the headquarters versus branch locations?
-How do hiring and termination rates vary by location?
+   What is the distribution of active and terminated employees across different cities and states?
+   What percentage of total hires are located at the headquarters versus branch locations?
+   How do hiring and termination rates vary by location?
 
 6. Demographics
     
-What is the demographic breakdown of active and terminated employees (e.g., gender, age, education level)?
-Are there any noticeable trends or disparities in hiring or termination rates among different demographic groups?
+   What is the demographic breakdown of active and terminated employees (e.g., gender, age, education level)?
+   Are there any noticeable trends or disparities in hiring or termination rates among different demographic groups?
 
 7. Income Analysis
     
-What is the average salary for active employees, segmented by department and job title?
-How does the salary distribution vary across different demographic groups?
-Are there any significant salary disparities between different departments or locations?
+   What is the average salary for active employees, segmented by department and job title?
+   How does the salary distribution vary across different demographic groups?
+   Are there any significant salary disparities between different departments or locations?
 
 
