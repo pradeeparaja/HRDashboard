@@ -52,7 +52,7 @@ What is the demographic breakdown of active and terminated employees (e.g., gend
 Are there any noticeable trends or disparities in hiring or termination rates among different demographic groups?
 
 11. Income Analysis
-What is the average salary for active employees, segmented by department and job title
+What is the average salary for active employees, segmented by department and job title?
 How does the salary distribution vary across different demographic groups?
 Are there any significant salary disparities between different departments or locations?
 
